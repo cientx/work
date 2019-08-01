@@ -1,4 +1,4 @@
 # work
 吧PC版和Unity版都上传。
-最新的unity版本也上传一下。
+最新的unity版本, 最新SQL Server, MYSQL Server也上传一下。
 现在我们不可能进行那个svn地址。所以吧资料上传这儿。
