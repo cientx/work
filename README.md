@@ -37,4 +37,4 @@ unity项目文件 太大了（16GB),用Git上传不太合理。
 这是什么意思？
 
 # 2019-08-07
-没有意思。    为做开发文档，存折linux building作业。
+没有意思。 我们现在停止linux building, 做开发文档。   为做开发文档，存折linux building作业。
