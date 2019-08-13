@@ -50,8 +50,4 @@ unity项目文件 太大了（16GB),用Git上传不太合理。
 
 # 2019-08-12
 好！辛苦了。
-可是那个地址能不能变换http://www.cientx.com/...
-我们在这儿能交流http://www.cientx.com/，可不能http://zentao.cientx.com。
-我的意思明白吗？
-
-还有上传了开发文档。 以后继续转给你们。(Docs.rar)
+看一下“说明”文档。
