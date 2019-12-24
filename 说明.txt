@@ -15,6 +15,6 @@
 2. 그리고 server를 빌드하여 시험해보아야겠는데 빌드환경을 알려주었으면 합니다.
 3. hismanager service의 main.cpp 17행에 #include <rapidjson/document.h>가 우리쪽(vs2008)환경에서 
    없다고 오유가 나오는데 그쪽 빌드환경에서는 됩니까?  어쨌든 그쪽 빌드환경을 좀 알려주십시오.
-4. 써버를 통합하는 경우 unity의 hismanager에서 대부분을 PC에 구현하여야 합니다. 
+4. 써버를 통합하는 경우 unity의 사적관리에서 대부분을 PC에 구현하여야 합니다. 
    그러므로 unity현재판본도 보내주십시오.
 ***  unity와 pc를 통합하면서 pc 수정과 함께 mobile도 같이 변경해야 하는데 참고해주십시오.***
