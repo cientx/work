@@ -11,6 +11,7 @@
 13263309303
 15810206361
 
+# 12-24
 1. 현재 server를 받아서 보았는데 새로 추가된 파케트들의 정의부가 없습니다. CNTX/server/code/common에 있는것도 보내주십시오.(필요되는 모든것을 보내주십시오.)
 2. 그리고 server를 빌드하여 시험해보아야겠는데 빌드환경을 알려주었으면 합니다.
 3. hismanager service의 main.cpp 17행에 #include <rapidjson/document.h>가 우리쪽(vs2008)환경에서 
